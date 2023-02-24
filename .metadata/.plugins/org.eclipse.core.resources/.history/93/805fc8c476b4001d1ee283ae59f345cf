@@ -13,40 +13,18 @@ public class Menu {
 		
 		int opcao;
 		
-		do {
+		//do {
 			System.out.println("===============================================");
 			System.out.println("                                               ");
 			System.out.println("           Bem-vinde a sua mini Estante        ");
 			System.out.println("                                               ");
 			System.out.println("===============================================");
-			System.out.println("\t1- Ver os Livros Disponveís");
-			System.out.println("\t2- Adicionar Livros na sua Estante");
-			System.out.println("\t3- Ver seus Livros");
-			System.out.println("\t4- Remover Livro");
-			System.out.println("\t5- Sair");
-			System.out.println("===============================================");
-			
-			switch(opcao=0) {
-			case 1 :
-				
-				break;
-			case 2:
-				
-				break;
-			case 3:
-				
-				break;
-			case 4:
-				
-				break;
-			default:
-				
-				break;
-			}
-			
-			
-			
-		}while(opcao == 5);
+			System.out.println("\t1-");
+			System.out.println("\t2-");
+			System.out.println("\t3-");
+			System.out.println("\t4-");
+			System.out.println("\t5-");
+		//}while(opcao == 5);
 		
 		
 	}
