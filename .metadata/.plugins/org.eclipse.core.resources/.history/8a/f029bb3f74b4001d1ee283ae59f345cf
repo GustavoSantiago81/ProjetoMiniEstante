@@ -13,18 +13,19 @@ public class Menu {
 		
 		int opcao;
 		
-		//do {
+		do {
 			System.out.println("===============================================");
 			System.out.println("                                               ");
 			System.out.println("           Bem-vinde a sua mini Estante        ");
 			System.out.println("                                               ");
 			System.out.println("===============================================");
-			System.out.println("\t1-");
-			System.out.println("\t2-");
-			System.out.println("\t3-");
-			System.out.println("\t4-");
-			System.out.println("\t5-");
-		//}while(opcao == 5);
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+		}while(opcao == 5);
 		
 		
 	}
